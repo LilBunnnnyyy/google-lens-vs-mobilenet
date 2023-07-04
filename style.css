@@ -1,0 +1,8 @@
+body{
+    background-color: beige;
+}
+img{
+    width:45%;
+    border: 2px dashed white;
+    border-radius: 5px;
+}
